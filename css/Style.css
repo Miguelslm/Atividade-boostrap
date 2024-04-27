@@ -1,3 +1,56 @@
 * {
     background-color: rgba(34, 34, 34, 0.911);
 }
+
+h1 {
+    color: aliceblue;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h2 {
+    color: aliceblue;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.col{
+    font-size: 20PX;
+    color: aliceblue;
+}
+
+.col-6{
+    color: aliceblue;
+}
+
+.col-5 {
+    color:aliceblue;
+}
+
+.col-4 {
+    color: aliceblue;
+}
+
+h1 {
+    background-color: rgba(34, 34, 34, 0.911);
+}
+
+h2{
+    background-color: rgba(34, 34, 34, 0.911);
+}
+
+/* .btn-custom {
+    background-color: #33ff3d; 
+    border-color: #33ff3d; 
+}
+
+.btn-custom:hover {
+    background-color: #33ff3d; 
+    border-color: #33ff3d; 
+}
+ */
+
+p{
+    color: aliceblue;
+    font-size: 15px;
+}
